@@ -1,0 +1,6 @@
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/edit_cache.dir
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/LLVMFuzzerNoMainObjects.dir
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/blah.dir
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/LLVMFuzzerNoMain.dir
+/Volumes/Data/code/llvm/lib/Fuzzer/build/CMakeFiles/LLVMFuzzer.dir
